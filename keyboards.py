@@ -9,7 +9,7 @@ menu = ReplyKeyboardMarkup(keyboard=[
 
 questions = ReplyKeyboardMarkup(keyboard=[[KeyboardButton(text='🛍 Как сделать заказ?')], [KeyboardButton(text='🔍 Товар оригинальный?')],
                                           [KeyboardButton(text='🚚 Как отследить заказ?')], [KeyboardButton(text='🕐 Сроки доставки')],
-                                          [KeyboardButton(text='🏠 Главное мен')]], resize_keyboard=True)
+                                          [KeyboardButton(text='🏠 Главное меню')]], resize_keyboard=True)
 
 pon = ReplyKeyboardMarkup(keyboard=[[KeyboardButton(text='Понятно 👍')]], resize_keyboard=True)
 ok = ReplyKeyboardMarkup(keyboard=[[KeyboardButton(text='Готово, далее ✅')]], resize_keyboard=True)
