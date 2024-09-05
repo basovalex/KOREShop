@@ -1,0 +1,19 @@
+from aiogram.fsm.state import StatesGroup, State
+
+TOKEN = '7156405929:AAH2krLPb97Z-ojSOS8u3ErmV6M_M6h4ZrM'
+
+id_photo1 = 'AgACAgIAAxkBAAMtZtNQqEqp5OgAAcuPbRajZt_Cde89AALa5DEbEi45Sg7CjiaFklH4AQADAgADeQADNQQ'
+id_photo2 = 'AgACAgIAAxkBAAMrZtNQlTgc3qWkQ-t2YeedJmi3W34AAt3kMRsSLjlKii70V_UxeU8BAAMCAAN5AAM1BA'
+id_photo3 = 'AgACAgIAAxkBAAMQZtNMvFYhjVjHJCUFUKKrWEjaGXcAAl_gMRtF6XlKEd0otqSFEN0BAAMCAAN5AAM1BA'
+id_photo4 = 'AgACAgIAAxkBAAOIZtazVPxaVbhEIGRf6hgfK8K6v8wAAoDhMRtMVbhKDZiuoQTapn4BAAMCAAN5AAM1BA'
+id_photo5 = 'AgACAgIAAxkBAAPpZtbJT7hyrT1y72jaQgzH8b3y5REAApjhMRtMVbhKz7VTUDeMQR0BAAMCAAN5AAM1BA'#Нажать на кнопку, чтобы посмотреть размер обуви
+id_photo6 = 'AgACAgIAAxkBAAOVZta5ZHGalCNJRhhHYWST8FdIQLQAApvhMRtMVbhKQU7xiY3LO4cBAAMCAAN5AAM1BA'#Выбрать размер обуви
+
+chat_id_admin = 751762217
+chat_id_admin1 = 7027970709
+
+
+
+
+
+
