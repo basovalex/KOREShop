@@ -1,7 +1,6 @@
 from aiogram.types import (ReplyKeyboardMarkup, KeyboardButton,
                            InlineKeyboardMarkup, InlineKeyboardButton,
-                           ReplyKeyboardRemove, WebAppInfo)
-from aiogram.utils.keyboard import InlineKeyboardBuilder
+                           ReplyKeyboardRemove)
 
 menu = ReplyKeyboardMarkup(keyboard=[
     [KeyboardButton(text='💴 Расчет стоимости заказа'),
